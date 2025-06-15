@@ -13,11 +13,11 @@ This project is a fun beginner-level program that demonstrates:
 
 - The game is played on a **3x3 board**, with positions numbered **1 to 9** as follows:
 
-1 | 2 | 3
+ 1 | 2 | 3
 ---+---+---
-4 | 5 | 6
+ 4 | 5 | 6
 ---+---+---
-7 | 8 | 9
+ 7 | 8 | 9
 
 
 
